@@ -1,7 +1,6 @@
 # Hi 👋, I'm Sindhu Yadulla
 
-  **I am a Master’s student in Computer Science at the **University of North Texas****.
-     
+🎓 I am a Master’s student in Computer Science at the **University of North Texas**, Denton.  
 📚 Currently working as a **Teaching Assistant** for **Data Structures and Algorithms**
 
 🔍 I’m a passionate software developer with strong interests in full-stack systems, cloud computing, and scalable architectures. I strive to continuously grow by learning new technologies and building impactful real-world applications.
