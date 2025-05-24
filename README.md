@@ -2,7 +2,7 @@
 
 🔍 I’m a passionate software developer with strong interests in full-stack systems, cloud computing, and scalable architectures. I strive to continuously grow by learning new technologies and building impactful real-world applications.
 
-**🎓 I am a Master’s student in Computer Science at the **University of North Texas**, Denton**.  
+🎓 I am a Master’s student in Computer Science at the **University of North Texas**, Denton.  
 
 📚 Currently working as a **Teaching Assistant** at UNT for **Data Structures and Algorithms**
 
