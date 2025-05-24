@@ -26,7 +26,7 @@
 📧 **sindhuyadulla@my.unt.edu**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sindhu-yadulla-42071a212)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/sindhuyadulla)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/sindhureddyyadulla)
 
 ---
 
