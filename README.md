@@ -91,5 +91,5 @@
 
 ## 🏆 Awards & Honors
 
-- 🏅 **Distinguished Student of the Year (2024–25)** – Department of Computer Science, **University of North Texas*
+- 🏅 **Distinguished Student of the Year (2024–25)** – Department of Computer Science, **University of North Texas**
 
