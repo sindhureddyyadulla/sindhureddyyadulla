@@ -28,19 +28,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sindhu-yadulla-42071a212)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/sindhureddyyadulla)
 
----
-## 🏅 Certifications
-
-- 🧠 **AWS Certified Cloud Practitioner** – [Amazon Web Services](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-- 🤖 **Generative AI Certified** – Cognizant AI Learning Program
-
----
-
-## 🏆 Awards & Honors
-
-- 🏅 **Distinguished Student of the Year (2024–25)** – Department of Computer Science, **University of North Texas**
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 👩‍💻 Languages
@@ -93,4 +80,16 @@
 ## 📊 GitHub Stats
 ![Sindhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhureddyyadulla&show_icons=true&theme=default&hide=stars,prs,issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhureddyyadulla&layout=compact)
+
+---
+## 🏅 Certifications
+
+- 🧠 **AWS Certified Cloud Practitioner** – [Amazon Web Services](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- 🤖 **Generative AI Certified** – Cognizant AI Learning Program
+
+---
+
+## 🏆 Awards & Honors
+
+- 🏅 **Distinguished Student of the Year (2024–25)** – Department of Computer Science, **University of North Texas*
 
