@@ -80,6 +80,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Sindhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhuyadulla&show_icons=true&theme=default&hide=stars,prs,issues)
+![Sindhu's GitHub Stats](https://github-readme-stats.vercel.app/apiusername=sindhureddyyadulla&show_icons=true&theme=default&hide=stars,prs,issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhureddyyadulla&layout=compact)
 
