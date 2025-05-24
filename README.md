@@ -29,6 +29,17 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://github.com/sindhureddyyadulla)
 
 ---
+## 🏅 Certifications
+
+- 🧠 **AWS Certified Cloud Practitioner** – [Amazon Web Services](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- 🤖 **Generative AI Certified** – Cognizant AI Learning Program
+
+---
+
+## 🏆 Awards & Honors
+
+- 🏅 **Distinguished Student of the Year (2024–25)** – Department of Computer Science, **University of North Texas**
+---
 
 ## 🛠️ Tech Stack & Tools
 
