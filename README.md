@@ -81,6 +81,6 @@
 
 ## 📊 GitHub Stats
 
-![Sindhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhuyadulla&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuyadulla&layout=compact)
+![Sindhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhureddyyadulla&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhureddyyadulla&layout=compact)
 
