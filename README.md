@@ -2,19 +2,20 @@
 
 🎓 I am a Master’s student in Computer Science at the **University of North Texas**
 
-🔍 I’m a passionate software developer with strong interests in full-stack systems, cloud solutions, and machine learning. I strive to continuously grow by learning new technologies and building real-world applications.
+🔍 I’m a passionate software developer with strong interests in full-stack systems, cloud solutions. I strive to continuously grow by learning new technologies and building real-world applications.
 
 🎓 I completed my Bachelor’s in Computer Science and Engineering at **Vignana Bharathi Institute of Technology**, Hyderabad.
 
 💻 I have professional experience as:
 - Teaching Assistant at UNT — assisting and mentoring in **Data Structures and Algorithms**
 - Research Assistant at UNT — optimizing **ElasticSearch performance on large datasets**
+- Program Analyst at Cognizant - Managing and Developing Applications
 - Java Developer Intern at Cognizant — built and secured **Spring Boot applications**
 - Cloud Intern at AICTE — deployed scalable AWS-based websites
 
 🌱 I enjoy working on innovative projects that challenge me and help me grow technically and creatively.
 
-📫 You can reach me at **sreddyy21@gmail.com**
+📫 You can reach me at **sindhureddyyadulla21@gmail.com** or **sindhuyadulla@my.unt.edu**
 
 ---
 
