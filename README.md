@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Sindhu Yadulla
 
 🎓 I am a passionate software developer and tech enthusiast with a strong focus on backend systems, full-stack applications, and database-driven designs.
