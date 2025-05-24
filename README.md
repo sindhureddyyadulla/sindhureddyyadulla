@@ -13,8 +13,8 @@
 ## 💼 Professional Experience
 
 - 👩‍🏫 **Teaching Assistant at UNT** – Delivering lectures, lab activities, and mentoring students in DSA
-- 🔍 **Research Assistant at UNT Lawful Computing Lab** – Optimized ElasticSearch performance over 30M+ records
-- 💼 **Program Analyst at Cognizant** – Developed and maintained desktop and backend applications using Java
+- 🔍 **Research Assistant at UNT(Lawful Computing Lab)** – Optimized ElasticSearch performance over 30M+ records
+- 💼 **Program Analyst at Cognizant** – Developed and maintained desktop and backend applications using Java,SQL.
 - 💻 **Java Developer Intern at Cognizant** – Built secure Spring Boot apps with API integration and user management
 - ☁️ **AWS Cloud Intern at AICTE** – Deployed full-stack websites on AWS using EC2, S3, RDS, and Lambda
 
@@ -56,7 +56,7 @@
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /></a>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></a>
   <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" /></a>
@@ -84,6 +84,3 @@
 ![Sindhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhuyadulla&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhuyadulla&layout=compact)
 
----
-
-> *"If there's a 1% chance, sometimes that chance is good enough."*
