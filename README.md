@@ -4,7 +4,7 @@
 
 **🎓 I am a Master’s student in Computer Science at the **University of North Texas**, Denton**.  
 
-📚 Currently working as a **Teaching Assistant** for **Data Structures and Algorithms**
+📚 Currently working as a **Teaching Assistant** at UNT for **Data Structures and Algorithms**
 
 🎓 I completed my Bachelor’s in Computer Science and Engineering at **Vignana Bharathi Institute of Technology**, Hyderabad.
 
