@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sindhu Yadulla
 
-    ### I am a Master’s student in Computer Science at the **University of North Texas**.
+  **I am a Master’s student in Computer Science at the **University of North Texas****.
      
 📚 Currently working as a **Teaching Assistant** for **Data Structures and Algorithms**
 
